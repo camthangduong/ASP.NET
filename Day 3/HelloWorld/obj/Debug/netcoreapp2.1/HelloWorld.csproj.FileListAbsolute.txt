@@ -1,0 +1,11 @@
+D:\ASP.NET\Day 3\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+D:\ASP.NET\Day 3\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+D:\ASP.NET\Day 3\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+D:\ASP.NET\Day 3\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+D:\ASP.NET\Day 3\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+D:\ASP.NET\Day 3\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+D:\ASP.NET\Day 3\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Day 3\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+D:\ASP.NET\Day 3\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+D:\ASP.NET\Day 3\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+D:\ASP.NET\Day 3\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
