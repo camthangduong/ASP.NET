@@ -1,0 +1,9 @@
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\netcoreapp2.1\UtilityLibraries.deps.json
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\netcoreapp2.1\UtilityLibraries.dll
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\netcoreapp2.1\UtilityLibraries.pdb
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\netcoreapp2.1\UtilityLibraries.csprojAssemblyReference.cache
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\netcoreapp2.1\UtilityLibraries.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\netcoreapp2.1\UtilityLibraries.AssemblyInfoInputs.cache
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\netcoreapp2.1\UtilityLibraries.AssemblyInfo.cs
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\netcoreapp2.1\UtilityLibraries.dll
+D:\ASP.NET\Day 3\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\netcoreapp2.1\UtilityLibraries.pdb

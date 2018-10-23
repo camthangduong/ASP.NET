@@ -1,0 +1,14 @@
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\ShowCase.deps.json
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\ShowCase.runtimeconfig.json
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\ShowCase.runtimeconfig.dev.json
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\ShowCase.dll
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\ShowCase.pdb
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\UtilityLibraries.dll
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp2.1\UtilityLibraries.pdb
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.csprojAssemblyReference.cache
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.AssemblyInfoInputs.cache
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.AssemblyInfo.cs
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.csproj.CopyComplete
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.dll
+D:\ASP.NET\Day 3\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp2.1\ShowCase.pdb
