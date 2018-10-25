@@ -1,0 +1,14 @@
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/WordCounterApp.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/WordCounterApp.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/WordCounterApp.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/WordCounterApp.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/WordCounterApp.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/TextUtils.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.1/TextUtils.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.csproj.CopyComplete
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.1/WordCounterApp.pdb

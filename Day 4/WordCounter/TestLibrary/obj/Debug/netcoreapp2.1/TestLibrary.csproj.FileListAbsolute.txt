@@ -1,0 +1,17 @@
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TestLibrary.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TestLibrary.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TestLibrary.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TestLibrary.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TestLibrary.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TextUtils.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/bin/Debug/netcoreapp2.1/TextUtils.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.csproj.CopyComplete
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TestLibrary/obj/Debug/netcoreapp2.1/TestLibrary.pdb

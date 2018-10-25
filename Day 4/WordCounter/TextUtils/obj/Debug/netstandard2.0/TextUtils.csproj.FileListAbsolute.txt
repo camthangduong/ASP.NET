@@ -1,0 +1,8 @@
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.pdb
