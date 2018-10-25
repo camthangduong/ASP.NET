@@ -1,0 +1,14 @@
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/app.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/app.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/app.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/app.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/library.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/bin/Debug/netcoreapp2.1/library.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.csproj.CopyComplete
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/app/obj/Debug/netcoreapp2.1/app.pdb

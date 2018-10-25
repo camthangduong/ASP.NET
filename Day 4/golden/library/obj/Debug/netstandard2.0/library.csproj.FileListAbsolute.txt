@@ -1,0 +1,9 @@
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/bin/Debug/netstandard2.0/library.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/bin/Debug/netstandard2.0/library.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/obj/Debug/netstandard2.0/library.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/library/obj/Debug/netstandard2.0/library.pdb

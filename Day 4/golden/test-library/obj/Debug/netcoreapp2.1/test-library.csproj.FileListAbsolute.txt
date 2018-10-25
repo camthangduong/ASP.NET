@@ -1,0 +1,17 @@
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/test-library.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/test-library.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/test-library.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/test-library.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/library.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/bin/Debug/netcoreapp2.1/library.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.csproj.CopyComplete
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.dll
+/Users/thangduong/Desktop/ASP.NET/Day 4/golden/test-library/obj/Debug/netcoreapp2.1/test-library.pdb
