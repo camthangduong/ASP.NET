@@ -1,0 +1,11 @@
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/bin/Debug/netcoreapp2.1/Hello.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/bin/Debug/netcoreapp2.1/Hello.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/bin/Debug/netcoreapp2.1/Hello.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/bin/Debug/netcoreapp2.1/Hello.dll
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/bin/Debug/netcoreapp2.1/Hello.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/obj/Debug/netcoreapp2.1/Hello.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/obj/Debug/netcoreapp2.1/Hello.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/obj/Debug/netcoreapp2.1/Hello.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/obj/Debug/netcoreapp2.1/Hello.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/obj/Debug/netcoreapp2.1/Hello.dll
+/Users/thangduong/Desktop/ASP.NET/Day 5/Hello/obj/Debug/netcoreapp2.1/Hello.pdb
