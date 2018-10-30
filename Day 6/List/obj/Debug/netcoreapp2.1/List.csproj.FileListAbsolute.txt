@@ -1,0 +1,11 @@
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/bin/Debug/netcoreapp2.1/List.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/bin/Debug/netcoreapp2.1/List.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/bin/Debug/netcoreapp2.1/List.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/bin/Debug/netcoreapp2.1/List.dll
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/bin/Debug/netcoreapp2.1/List.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/obj/Debug/netcoreapp2.1/List.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/obj/Debug/netcoreapp2.1/List.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/obj/Debug/netcoreapp2.1/List.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/obj/Debug/netcoreapp2.1/List.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/obj/Debug/netcoreapp2.1/List.dll
+/Users/thangduong/Desktop/ASP.NET/Day 6/List/obj/Debug/netcoreapp2.1/List.pdb

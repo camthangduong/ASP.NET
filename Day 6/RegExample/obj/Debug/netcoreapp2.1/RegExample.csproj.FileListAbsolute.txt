@@ -1,0 +1,11 @@
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/bin/Debug/netcoreapp2.1/RegExample.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/bin/Debug/netcoreapp2.1/RegExample.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/bin/Debug/netcoreapp2.1/RegExample.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/bin/Debug/netcoreapp2.1/RegExample.dll
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/bin/Debug/netcoreapp2.1/RegExample.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/obj/Debug/netcoreapp2.1/RegExample.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/obj/Debug/netcoreapp2.1/RegExample.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/obj/Debug/netcoreapp2.1/RegExample.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/obj/Debug/netcoreapp2.1/RegExample.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/obj/Debug/netcoreapp2.1/RegExample.dll
+/Users/thangduong/Desktop/ASP.NET/Day 6/RegExample/obj/Debug/netcoreapp2.1/RegExample.pdb

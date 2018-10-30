@@ -1,0 +1,11 @@
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/bin/Debug/netcoreapp2.1/2D_Array.deps.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/bin/Debug/netcoreapp2.1/2D_Array.runtimeconfig.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/bin/Debug/netcoreapp2.1/2D_Array.runtimeconfig.dev.json
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/bin/Debug/netcoreapp2.1/2D_Array.dll
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/bin/Debug/netcoreapp2.1/2D_Array.pdb
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/obj/Debug/netcoreapp2.1/2D_Array.csprojAssemblyReference.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/obj/Debug/netcoreapp2.1/2D_Array.csproj.CoreCompileInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/obj/Debug/netcoreapp2.1/2D_Array.AssemblyInfoInputs.cache
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/obj/Debug/netcoreapp2.1/2D_Array.AssemblyInfo.cs
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/obj/Debug/netcoreapp2.1/2D_Array.dll
+/Users/thangduong/Desktop/ASP.NET/Day 6/2D_Array/obj/Debug/netcoreapp2.1/2D_Array.pdb
